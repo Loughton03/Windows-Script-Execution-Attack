@@ -1,4 +1,4 @@
-#     Windows-Script-Execution-Attack
+#     Windows Script Execution Attack - Incident Response (Atomic Red)
 
 In this project, we simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
 
